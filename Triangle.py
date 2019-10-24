@@ -21,4 +21,4 @@ class Triangle(object):
         turtle.forward(self.side)
         turtle.left(120)
         turtle.end_fill()
-        turle.hideturtle()
+        turtle.hideturtle()
